@@ -98,7 +98,7 @@ passions: [Software Architecture, Mental Health Advocacy, Gospel Music (Keyboard
 ### ⚡ Recent Activity & Commits
 <!-- This section updates automatically via GitHub Actions whenever you push commits or on schedule -->
 <!--START_SECTION:activity-->
-1. 🔄 *Workflow will populate recent commits and activities here once pushed to GitHub.*
+1. 🎉 Merged PR [#2](https://github.com/antenyijoseph20-glitch/NCD-Patient-Safety-Platform/pull/2) in [antenyijoseph20-glitch/NCD-Patient-Safety-Platform](https://github.com/antenyijoseph20-glitch/NCD-Patient-Safety-Platform)
 <!--END_SECTION:activity-->
 
 ---
