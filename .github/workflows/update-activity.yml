@@ -1,0 +1,30 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch: # Allows you to manually trigger it from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Update Profile Activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Activity Feed
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "⚡ Update recent GitHub activity [skip ci]"
+          MAX_LINES: 8
