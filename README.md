@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=AI-Native+Full+Stack+Engineer;B.N.Sc.+Graduate+%7C+Registered+Nurse+(RN%2FRMHN);Python+%26+Go+(Golang)+Architect;Bridging+Clinical+Science+%26+Intelligent+Software;Transforming+Complex+Challenges+Into+Scalable+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=AI-Native+Full+Stack+Engineer;B.N.Sc.+Graduate+%7C+Registered+Nurse+(RN);Resilient+Mental+Health+Network+(RMHN);Python+%26+Go+(Golang)+Architect;Bridging+Clinical+Science+%26+Intelligent+Software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,20 +17,22 @@
 
 ### 👨‍💻 About Me
 
-> **🎓 Bachelor of Nursing Science (B.N.Sc.)** &nbsp;•&nbsp; **🩺 Registered Nurse (RN / RMHN)** &nbsp;•&nbsp; **💻 AI-Native Full Stack Engineer**  
+> **🎓 Bachelor of Nursing Science (B.N.Sc.)** &nbsp;•&nbsp; **🩺 Registered Nurse (RN)** &nbsp;•&nbsp; **💻 AI-Native Full Stack Engineer**  
+> **🧠 Advocate with Resilient Mental Health Network (RMHN)**  
 > *Bridging clinical science with intelligent, high-performance software engineering to solve high-stakes human and technical challenges.*
 
-I am an **AI-Native Full Stack Engineer** and **Registered Nurse (B.N.Sc., RN / RMHN)** based in Nigeria. I operate at the unique intersection of clinical healthcare expertise, artificial intelligence, and systems software engineering.
+I am an **AI-Native Full Stack Engineer**, **Registered Nurse (B.N.Sc., RN)**, and advocate with the **Resilient Mental Health Network (RMHN)** based in Nigeria. I operate at the unique intersection of clinical healthcare practice, mental health advocacy, and modern software engineering.
 
 My engineering philosophy centers on building robust, scalable architectures—leveraging **Python**, **Go (Golang)**, modern web frameworks, and AI workflows to create systems that deliver measurable real-world impact.
 
 #### 🌟 Core Pillars & Expertise
 
-- 🩺 **Clinical & Technical Synergy:** Leveraging a rigorous clinical foundation (B.N.Sc. and mental health nursing practice) to architect empathetic, secure HealthTech systems, clinical decision workflows, and patient data analytics.
+- 🩺 **Clinical & Technical Synergy:** Leveraging a rigorous clinical foundation (B.N.Sc., RN) to architect empathetic, secure HealthTech systems, clinical decision workflows, and patient data analytics.
+- 🧠 **Mental Health & Social Impact:** Collaborating with the **Resilient Mental Health Network (RMHN)** to drive mental health advocacy, community resilience, and technology-enabled support systems.
 - 🤖 **AI-Native Full Stack Engineering:** Architecting full-stack applications designed from the ground up to integrate AI/LLMs, autonomous agent workflows, and intelligent automation into production systems.
 - ⚙️ **Systems & Backend Craftsmanship:** Writing performant, type-safe, and test-driven backends, APIs, and CLI tools using **Python** and **Go**, prioritizing clean architecture and long-term maintainability.
-- 🧠 **Advocacy & Creative Balance:** Passionate advocate for mental health awareness, healthcare digitization, and an accomplished gospel keyboardist / pianist.
-- 💬 **Collaborate With Me:** HealthTech innovations, AI-driven applications, backend systems in Python/Go, or speaking on technology in modern healthcare.
+- 🎹 **Creative Balance:** Accomplished gospel keyboardist / pianist with a lifelong passion for musical composition and expression.
+- 💬 **Collaborate With Me:** HealthTech innovations, mental health initiatives, AI-driven applications, or backend systems in Python/Go.
 - 📫 **Reach Me Directly:** [oche8004@gmail.com](mailto:oche8004@gmail.com) or on X [@AdanuOche2](https://twitter.com/AdanuOche2).
 
 ---
