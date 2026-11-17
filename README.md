@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Python+%26+Go+Developer;Data+Analyst+%7C+HealthTech+Innovator;Registered+Nurse+(RMHN)+%26+Mental+Health+Advocate;Pianist+%26+Music+Lover;Transforming+Ideas+Into+Scalable+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=AI-Native+Full+Stack+Engineer;B.N.Sc.+Graduate+%7C+Registered+Nurse+(RN%2FRMHN);Python+%26+Go+(Golang)+Architect;Bridging+Clinical+Science+%26+Intelligent+Software;Transforming+Complex+Challenges+Into+Scalable+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,20 +17,21 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Adanu Oche Gabriel
-location: Nigeria 🇳🇬
-background: [Healthcare (RMHN), Software Engineering, Data Analysis]
-core_languages: [Python, Go (Golang), JavaScript]
-domains_of_interest: [HealthTech, Data Systems, Automation, CLI Tools, AI Integration]
-passions: [Software Architecture, Mental Health Advocacy, Gospel Music (Keyboard / Keyz)]
-```
+> **🎓 Bachelor of Nursing Science (B.N.Sc.)** &nbsp;•&nbsp; **🩺 Registered Nurse (RN / RMHN)** &nbsp;•&nbsp; **💻 AI-Native Full Stack Engineer**  
+> *Bridging clinical science with intelligent, high-performance software engineering to solve high-stakes human and technical challenges.*
 
-- 🩺 **Healthcare & Tech Intersection:** Combining clinical insights as a Registered Nurse / Mental Health Advocate (RMHN) with computer science to build meaningful HealthTech and data solutions.
-- 🔭 **Current Focus:** Developing scalable backends, CLI tools, and data pipelines in **Python** and **Go**.
-- 🌱 **Continuous Learning:** Exploring AI engineering, predictive health analytics, and advanced systems programming.
-- 💬 **Ask me about:** Python, Go, Data Analysis, CLI architecture, automated testing, and health-data systems.
-- 📫 **Reach me at:** [oche8004@gmail.com](mailto:oche8004@gmail.com) or on X [@AdanuOche2](https://twitter.com/AdanuOche2).
+I am an **AI-Native Full Stack Engineer** and **Registered Nurse (B.N.Sc., RN / RMHN)** based in Nigeria. I operate at the unique intersection of clinical healthcare expertise, artificial intelligence, and systems software engineering.
+
+My engineering philosophy centers on building robust, scalable architectures—leveraging **Python**, **Go (Golang)**, modern web frameworks, and AI workflows to create systems that deliver measurable real-world impact.
+
+#### 🌟 Core Pillars & Expertise
+
+- 🩺 **Clinical & Technical Synergy:** Leveraging a rigorous clinical foundation (B.N.Sc. and mental health nursing practice) to architect empathetic, secure HealthTech systems, clinical decision workflows, and patient data analytics.
+- 🤖 **AI-Native Full Stack Engineering:** Architecting full-stack applications designed from the ground up to integrate AI/LLMs, autonomous agent workflows, and intelligent automation into production systems.
+- ⚙️ **Systems & Backend Craftsmanship:** Writing performant, type-safe, and test-driven backends, APIs, and CLI tools using **Python** and **Go**, prioritizing clean architecture and long-term maintainability.
+- 🧠 **Advocacy & Creative Balance:** Passionate advocate for mental health awareness, healthcare digitization, and an accomplished gospel keyboardist / pianist.
+- 💬 **Collaborate With Me:** HealthTech innovations, AI-driven applications, backend systems in Python/Go, or speaking on technology in modern healthcare.
+- 📫 **Reach Me Directly:** [oche8004@gmail.com](mailto:oche8004@gmail.com) or on X [@AdanuOche2](https://twitter.com/AdanuOche2).
 
 ---
 
