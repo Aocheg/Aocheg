@@ -101,7 +101,7 @@ My engineering philosophy centers on building robust, scalable architectures—l
 ### ⚡ Recent Activity & Commits
 <!-- This section updates automatically via GitHub Actions whenever you push commits or on schedule -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/antenyijoseph20-glitch/NCD-Patient-Safety-Platform/pull/2) in [antenyijoseph20-glitch/NCD-Patient-Safety-Platform](https://github.com/antenyijoseph20-glitch/NCD-Patient-Safety-Platform)
+1. ℹ️ Assigned PR [#2](https://github.com/Aocheg/mission-2project/pull/2) in [Aocheg/mission-2project](https://github.com/Aocheg/mission-2project)
 <!--END_SECTION:activity-->
 
 ---
